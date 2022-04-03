@@ -1,0 +1,26 @@
+body{
+    font: 20px Bahnschrift;
+}
+
+.navbar{
+    background-color: #E59866 ;
+}
+
+.quem-somos{
+    background-color: #71a1a1;
+    color: white;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #D1F2EB;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
